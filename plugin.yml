@@ -1,0 +1,6 @@
+name: FFA
+author: PrinxIsLeqit
+description: FFA
+version: 1.0.2
+main: PrinxIsLeqit\Main
+api: [3.0.0-ALPHA11, 3.0.0-ALPHA12]

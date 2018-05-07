@@ -1,0 +1,2 @@
+# FFA
+Little FFA Plugin
